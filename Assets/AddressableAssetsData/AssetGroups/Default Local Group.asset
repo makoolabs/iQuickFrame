@@ -16,7 +16,19 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 3314be34745464bbcaf0e1a3dd804915
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 0ffaa0b7117ba8c47a9d05ae701d4b4d
+    m_Address: Assets/Materials/Skybox_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2100000, guid: 0ffaa0b7117ba8c47a9d05ae701d4b4d, type: 2}
+    m_TargetAsset: {fileID: 2100000, guid: 0ffaa0b7117ba8c47a9d05ae701d4b4d, type: 2}
+  - m_GUID: d1c3109bdb54ad54c8a2b2838528e640
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: d1c3109bdb54ad54c8a2b2838528e640, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: d1c3109bdb54ad54c8a2b2838528e640, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c3e82e051b4e04087b7614e081d3f0c7, type: 2}
   m_SchemaSet:
